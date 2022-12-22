@@ -1,0 +1,2 @@
+deze flutter sdk komt van  flutter_windows_3.3.2-stable
+unzip en move de flutter folder naar D:\flutter
